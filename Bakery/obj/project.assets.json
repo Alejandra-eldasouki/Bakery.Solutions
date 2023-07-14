@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/Bakery/Bakery.Solutions.csproj",
-      "projectName": "Bakery.Solutions",
-      "projectPath": "/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/Bakery/Bakery.Solutions.csproj",
+      "projectUniqueName": "/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/Bakery/Bakery.csproj",
+      "projectName": "Bakery",
+      "projectPath": "/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/Bakery/Bakery.csproj",
       "packagesPath": "/Users/alejandrael-dasouki/.nuget/packages/",
       "outputPath": "/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/Bakery/obj/",
       "projectStyle": "PackageReference",

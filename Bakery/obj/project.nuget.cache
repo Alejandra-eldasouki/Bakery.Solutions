@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sRE6gQjakPL7SYfqb3wTB14WTMocBheJt1GK3dFAkeru1RfCQpzDUde4mt1gC7KOEYo1M5rnYXnLmwUihd7w0w==",
+  "dgSpecHash": "wEdqzj7PKs85EbOqcvvsT9YlOB3sn0zyOxawDyJwGzC1pMSDvQw1syMz+A30AOAj3Hp5l7JOfQQBb2BftBNFEQ==",
   "success": true,
-  "projectFilePath": "/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/Bakery/Bakery.Solutions.csproj",
+  "projectFilePath": "/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/Bakery/Bakery.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

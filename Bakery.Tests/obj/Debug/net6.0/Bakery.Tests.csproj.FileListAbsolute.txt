@@ -95,3 +95,9 @@
 /Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/Bakery.Tests/obj/Debug/net6.0/Bakery.Tests.pdb
 /Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/Bakery.Tests/obj/Debug/net6.0/Bakery.Tests.genruntimeconfig.cache
 /Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/Bakery.Tests/obj/Debug/net6.0/ref/Bakery.Tests.dll
+/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/Bakery.Tests/bin/Debug/net6.0/CoverletSourceRootsMapping
+/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/Bakery.Tests/bin/Debug/net6.0/Bakery.deps.json
+/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/Bakery.Tests/bin/Debug/net6.0/Bakery.runtimeconfig.json
+/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/Bakery.Tests/bin/Debug/net6.0/Bakery
+/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/Bakery.Tests/bin/Debug/net6.0/Bakery.dll
+/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/Bakery.Tests/bin/Debug/net6.0/Bakery.pdb
