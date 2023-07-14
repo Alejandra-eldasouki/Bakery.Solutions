@@ -1,0 +1,15 @@
+/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/Bakery/bin/Debug/net6.0/Bakery.Solutions
+/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/Bakery/bin/Debug/net6.0/Bakery.Solutions.deps.json
+/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/Bakery/bin/Debug/net6.0/Bakery.Solutions.runtimeconfig.json
+/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/Bakery/bin/Debug/net6.0/Bakery.Solutions.dll
+/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/Bakery/bin/Debug/net6.0/Bakery.Solutions.pdb
+/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/Bakery/obj/Debug/net6.0/Bakery.Solutions.csproj.AssemblyReference.cache
+/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/Bakery/obj/Debug/net6.0/Bakery.Solutions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/Bakery/obj/Debug/net6.0/Bakery.Solutions.AssemblyInfoInputs.cache
+/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/Bakery/obj/Debug/net6.0/Bakery.Solutions.AssemblyInfo.cs
+/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/Bakery/obj/Debug/net6.0/Bakery.Solutions.csproj.CoreCompileInputs.cache
+/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/Bakery/obj/Debug/net6.0/Bakery.Solutions.dll
+/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/Bakery/obj/Debug/net6.0/refint/Bakery.Solutions.dll
+/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/Bakery/obj/Debug/net6.0/Bakery.Solutions.pdb
+/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/Bakery/obj/Debug/net6.0/Bakery.Solutions.genruntimeconfig.cache
+/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/Bakery/obj/Debug/net6.0/ref/Bakery.Solutions.dll
