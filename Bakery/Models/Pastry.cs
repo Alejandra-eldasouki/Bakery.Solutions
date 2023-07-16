@@ -36,5 +36,16 @@ namespace Bakery.Models
        return PastryPrice = (PastryQuantity * 2) - thirdPastry;
       } 
     } 
+     public string Pastries()
+    {
+      if (PastryQuantity > 1)
+      {
+        return "pastries";
+      }
+      else
+      {
+        return "pastry";
+      }
+    } 
   }
 }

@@ -35,5 +35,13 @@ namespace Bakery.Tests.ModelTests
       Assert.AreEqual(7, addPastry4.PastryTotal());
       Assert.AreEqual(9, addPastry5.PastryTotal());
     }  
+     [TestMethod]
+    public void Pastries_ReturnPastryOrPastries_String()   
+    {
+      Pastry addPastry1 = new Pastry(1,20);
+      Pastry addPastry2 = new Pastry(2,4);
+      Assert.AreEqual("pastry", addPastry1.Pastries());
+      Assert.AreEqual("pastries", addPastry2.Pastries());
+    }
     }
 }
