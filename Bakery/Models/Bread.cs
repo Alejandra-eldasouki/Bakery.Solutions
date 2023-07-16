@@ -5,18 +5,18 @@ using System.Threading.Tasks;
 
 namespace Bakery.Models
 {
-    public class Bread
+  public class Bread
+  {
+    public int Quantity { get; set; }
+    public int Price { get; set; }
+
+    public Bread(int qty, int price)
     {
-        public int Quantity { get; set; }
-        public int Price { get; set; }
+      Quantity = qty;
+      Price = price;
+    }
 
-        public Bread(int qty, int price) 
-        {
-            Quantity = qty;
-            Price = price;
-        }
-
-       public int BreadPrice()
+    public int BreadPrice()
     {    
       int freeBread = 0;
       if (Quantity < 3)
@@ -35,5 +35,17 @@ namespace Bakery.Models
        return Price = (Quantity - freeBread) * 5;
       } 
     }  
+    
+    public string Loaf()
+    {
+      if (Quantity > 1)
+      {
+        return "loaves";
+      }
+      else
+      {
+        return "loaf";
+      }
     }
-}
+  } 
+}  
