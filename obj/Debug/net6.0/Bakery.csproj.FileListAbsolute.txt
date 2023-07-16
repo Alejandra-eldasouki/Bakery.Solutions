@@ -1,0 +1,5 @@
+/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/obj/Debug/net6.0/Bakery.csproj.AssemblyReference.cache
+/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/obj/Debug/net6.0/Bakery.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/obj/Debug/net6.0/Bakery.AssemblyInfoInputs.cache
+/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/obj/Debug/net6.0/Bakery.AssemblyInfo.cs
+/Users/alejandrael-dasouki/epicodus/c#week1/Bakery.Solutions/obj/Debug/net6.0/Bakery.csproj.CoreCompileInputs.cache
