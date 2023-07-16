@@ -10,9 +10,10 @@ namespace Bakery.Tests.ModelTests
     public class PastryTests
     {
         [TestMethod]
-        public void TestMethod1()
+        public void PastryConstructor_CreatesInstanceOfPastry_Pastry()
         {
-            Assert.IsTrue(true);
+            Pastry addPastry = new Pastry(1,2);
+            Assert.AreEqual(typeof(pastry),  addPastry.GetType());
         }
     }
 }
