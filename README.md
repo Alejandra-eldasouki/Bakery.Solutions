@@ -7,8 +7,14 @@ This C# console application simulates a bakery ordering system. It allows users 
 - Clone this repository to your desktop
 - Open in the code editor of your choice
 - Commit and push your .gitignore file to your repo
+- cd into Bakery
 - Run $ dotnet restore to enable microsoft unit testing in the command line
 - Run $ dotnet run to activate the program in your terminal
+
+* For testing purpose:
+
+- cd into Bakery.Tests
+- Run $ dotnet test
 
 ## Pricing Rules
 
