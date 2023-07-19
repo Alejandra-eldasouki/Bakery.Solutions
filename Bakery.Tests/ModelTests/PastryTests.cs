@@ -22,12 +22,12 @@ namespace Bakery.Tests.ModelTests
       Pastry addPastry0 = new Pastry(0,0);
       Pastry addPastry1 = new Pastry(1,2);
       Pastry addPastry2 = new Pastry(2,4);
-      Pastry addPastry3 = new Pastry(3,5);
-      Pastry addPastry4 = new Pastry(4,7);
-      Pastry addPastry5 = new Pastry(5,9);
-      Pastry addPastry6 = new Pastry(24, 40);
-      Pastry addPastry7 = new Pastry(21, 35);
-      Pastry addPastry8 = new Pastry(10, 18);
+      Pastry addPastry3 = new Pastry(3,6);
+      Pastry addPastry4 = new Pastry(4,6);
+      Pastry addPastry5 = new Pastry(5,8);
+      Pastry addPastry6 = new Pastry(7, 12);
+      Pastry addPastry7 = new Pastry(8, 12);
+      Pastry addPastry8 = new Pastry(16, 24);
       Assert.AreEqual(0, addPastry0.PastryTotal());
       Assert.AreEqual(2, addPastry1.PastryTotal());
       Assert.AreEqual(4, addPastry2.PastryTotal());
